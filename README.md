@@ -1,4 +1,5 @@
 # Spring Boot MongoDB Project
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielreisresende/spring-boot-mongodb/blob/main/LICENSE)
 
 Este é um projeto que utiliza o Spring Boot armazenando os dados no MongoDB.
 
